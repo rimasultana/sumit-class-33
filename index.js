@@ -1,2 +1,4 @@
 let x = 5;
- console.log( x == 9);
+let y = 6;
+
+console.log(x < 10 && y > 1);
